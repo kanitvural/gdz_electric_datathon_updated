@@ -119,6 +119,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+gdz_electric_updated_raw.ipynb
 # Environments
 .env
 .venv
